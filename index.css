@@ -1,0 +1,35 @@
+body {
+  background-color: #999;
+  margin: 0;
+  padding: 0;
+}
+
+.nav {
+  background-color: #993399;
+  height: 80px;
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style-type: none;
+}
+
+.nav-item {
+  padding: 5px;
+  float: right;
+}
+
+.nav-link {
+  color: #999;
+}
+
+.nav-link:hover {
+  color: #777;
+  border-bottom: 0.5px #777 solid;
+}
+
+.container {
+  width: 70%;
+  height: 900px;
+  margin-top: 0;
+  margin: 0 auto;
+  background-color: #eee;
+}
